@@ -1,0 +1,19 @@
+REQUISITOS FUNCIONALES
+
+Hará falta un sistema de roles para los tres tipos de actores del software.
+
+- Todos los usuarios:
+	- Login
+	
+- Negocios
+	- Gestión de reservas
+	- Gestión de negocios
+
+- Para los peregrinos:
+	- Informarse sobre los caminos
+	- Planificar las etapas
+	- Filtrar los recursos del destino o de la ubicación que está
+	- Mostrar la información de la etapa en curso y sobre las etapas en curso
+	
+- Mantenimiento
+	- Gestión de estadísticas
