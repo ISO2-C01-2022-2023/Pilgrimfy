@@ -87,6 +87,7 @@
   </build>
   <modules>
     <module>It1</module>
+    <module>It2</module>
   </modules>
 </project>
 
